@@ -1,0 +1,21 @@
+{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 GPGPU-Sim uArch: GPU detected kernel '_ZN6thrust6detail7backend4cuda6detail11b40c_thrust17ScanScatterDigitsIjjLi0ELi4ELi0ENS4_20PreprocessKeyFunctorIjEENS4_10NopFunctorIjEEEEvPbPiPT_SD_PT0_SF_NS4_16CtaDecompositionE' finished on shader 27.\
+kernel_name = _ZN6thrust6detail7backend4cuda6detail11b40c_thrust17ScanScatterDigitsIjjLi0ELi4ELi0ENS4_20PreprocessKeyFunctorIjEENS4_10NopFunctorIjEEEEvPbPiPT_SD_PT0_SF_NS4_16CtaDecompositionE \
+kernel_launch_uid = 3 \
+gpu_sim_cycle = 6691\
+gpu_sim_insn = 2651184\
+gpu_ipc =     396.2314\
+gpu_tot_sim_cycle = 23498\
+gpu_tot_sim_insn = 11284656\
+gpu_tot_ipc =     480.2390\
+gpu_tot_issued_cta = 0\
+gpu_stall_dramfull = 2339\
+gpu_stall_icnt2sh    = 25099\
+gpu_total_sim_rate=163545\
+\
+========= Core c}
